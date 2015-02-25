@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: adaaf5621e0298d40a660067c78c8702
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - portalprefab1: {fileID: 135564, guid: 1ea9a811ae76ccb4e9b5e2a11fec82b9, type: 2}
+  - portalprefab2: {fileID: 163202, guid: adf7348f21f6dba4dbb70d1808a71b85, type: 2}
+  - endPortalprefab: {fileID: 152094, guid: 713360bf7958ea749bb006e1be0f25cf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
