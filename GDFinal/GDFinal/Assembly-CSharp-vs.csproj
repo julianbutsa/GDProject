@@ -59,12 +59,17 @@
      <Compile Include="Assets\MirrorPuzzle\Scripts\Use.cs" />
      <Compile Include="Assets\MirrorPuzzle\Scripts\WorldInteraction.cs" />
      <Compile Include="Assets\MirrorPuzzle\Scripts\goalScript.cs" />
+     <Compile Include="Assets\MirrorPuzzleStart.cs" />
      <Compile Include="Assets\MyScripts\EndScene.cs" />
      <Compile Include="Assets\MyScripts\MoveTile.cs" />
      <Compile Include="Assets\PortalSceneTransition.cs" />
      <Compile Include="Assets\SceneTransition.cs" />
+     <Compile Include="Assets\ScriptEnabler.cs" />
      <Compile Include="Assets\Scripts\AppearP.cs" />
      <Compile Include="Assets\Scripts\ButtonController.cs" />
+     <Compile Include="Assets\Scripts\CharacterControllerScripts\$CharacterMotor.cs" />
+     <Compile Include="Assets\Scripts\CharacterControllerScripts\CharacterMotor.cs" />
+     <Compile Include="Assets\Scripts\CharacterControllerScripts\FPSInputController.cs" />
      <Compile Include="Assets\Scripts\CloserController.cs" />
      <Compile Include="Assets\Scripts\GameInfo.cs" />
      <Compile Include="Assets\Scripts\Hmove.cs" />

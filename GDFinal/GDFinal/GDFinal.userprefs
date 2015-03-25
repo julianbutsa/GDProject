@@ -1,10 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\MoveTile.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MirrorPuzzleStart.cs">
     <Files>
-      <File FileName="Assets\PortalSceneTransition.cs" Line="1" Column="1" />
-      <File FileName="Assets\GoToMenu.cs" Line="12" Column="18" />
-      <File FileName="Assets\MyScripts\MoveTile.cs" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\Jump.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoToMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneTransition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScriptEnabler.cs" Line="14" Column="53" />
+      <File FileName="Assets\MirrorPuzzleStart.cs" Line="11" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
