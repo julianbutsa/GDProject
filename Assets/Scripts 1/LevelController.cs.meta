@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0582206b19aba4c44bd52db348c0c15a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - levelData: {fileID: 4900000, guid: ca81a38e7a10fa742962a60cb90edc28, type: 3}
+  - tile: {fileID: 100000, guid: 3aa91857d5c7df842b38d3d94296cacf, type: 2}
+  - player: {instanceID: 0}
+  - box: {fileID: 100000, guid: 2ceee75d8959d6b4dbe11ec3eda68be6, type: 2}
+  - switchObject: {fileID: 100000, guid: 20426f6f8640d204aabd4ff6f841adc1, type: 2}
+  - wall: {fileID: 100000, guid: 420329449cc1ca44fbddf865013a7fd5, type: 2}
+  - ceiling: {fileID: 100000, guid: baff700713b858e4cad5c528be754c8f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
