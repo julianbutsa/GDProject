@@ -19,7 +19,8 @@ public class goalScript : MonoBehaviour, NodeHand{
 	}
 
 	public void goalAction(){
-		Application.LoadLevel (0);
+		ScoreKeeper.room4++;
+		Application.LoadLevel ("MainMenuScene");
 	}
 
 	public void addToList(PowerReceiver p){

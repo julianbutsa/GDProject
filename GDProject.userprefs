@@ -1,17 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControllerPortal.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MirrorPuzzle\Scripts\WorldInteraction.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControllerPortal.cs" Line="94" Column="24" />
-      <File FileName="Assets\Scripts\GameLobbyManager.cs" Line="62" Column="20" />
-      <File FileName="Assets\Scripts\GameInfo.cs" Line="29" Column="65" />
-      <File FileName="Assets\Scripts\GameInfo2.cs" Line="16" Column="3" />
-      <File FileName="Assets\PortalSceneTransition.cs" Line="1" Column="1" />
-      <File FileName="Assets\SceneTransition.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SelectScene.cs" Line="10" Column="8" />
-      <File FileName="Assets\ScriptEnabler.cs" Line="1" Column="1" />
-      <File FileName="Assets\MoveOn.cs" Line="8" Column="43" />
-      <File FileName="Assets\Scripts\ScoreKeeper.cs" Line="23" Column="12" />
+      <File FileName="Assets\Scripts\ScoreKeeper.cs" Line="16" Column="17" />
+      <File FileName="Assets\MirrorPuzzle\Scripts\goalScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\MirrorPuzzle\Scripts\WorldInteraction.cs" Line="12" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

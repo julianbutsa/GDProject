@@ -3,6 +3,10 @@ using System.Collections;
 
 public class WorldInteraction : MonoBehaviour {
 
+	public float startx;
+	public float starty;
+	public float startz;
+
 	public NodeHandler useableObject;
 	// Use this for initialization
 	void Start () {
@@ -14,6 +18,9 @@ public class WorldInteraction : MonoBehaviour {
 	void Update () {
 		if (Input.GetKeyDown (KeyCode.E) && useableObject != null)
 			useableObject.rotateNode ();
+		if (transform.position.y < -10.0f) {
+			transform.position = new Vector3(startx, starty, startz); 		
+		}
 	}
 	
 }
