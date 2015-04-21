@@ -458,7 +458,8 @@ private function ApplyGravityAndJumping (velocity : Vector3) {
 	return velocity;
 }
 
-function OnControllerColliderHit (hit : ControllerColliderHit) {
+function OnControllerColliderHit (hit : ControllerColliderHit) { 	  
+
 	if (hit.normal.y > 0 && hit.normal.y > groundNormal.y && hit.moveDirection.y < 0) {
 		if ((hit.point - movement.lastHitPoint).sqrMagnitude > 0.001 || lastGroundNormal == Vector3.zero)
 			groundNormal = hit.normal;

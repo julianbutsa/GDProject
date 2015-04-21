@@ -1,8 +1,24 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MirrorPuzzle\Scripts\goalScript.cs">
     <Files>
       <File FileName="Assets\MirrorPuzzle\Scripts\goalScript.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InstructionButtons.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SelectScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterControllerScripts\FPSInputController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainButtons.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\InstructionButtons.cs" Line="41" Column="2" />
+      <File FileName="Assets\Scripts\PlatMove7.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControllerPortal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatMove8.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatMove9.cs" Line="1" Column="1" />
+      <File FileName="Assets\MattAssets\MattScripts\LevelController.cs" Line="172" Column="42" />
+      <File FileName="Assets\MattAssets\MattScripts\PauseButtonController.cs" Line="51" Column="24" />
+>>>>>>> origin/TestBranch
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

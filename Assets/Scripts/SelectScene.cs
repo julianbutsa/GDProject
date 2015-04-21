@@ -13,7 +13,8 @@ public class SelectScene : MonoBehaviour {
 								Application.LoadLevel ("4x4Puzzle");
 						}
 			if (gameObject.name == "Door2") {
-								Application.LoadLevel ("title");
+				LevelController.level = 1;
+								Application.LoadLevel ("game");
 						}
 			if (gameObject.name == "Door3") {
 								Application.LoadLevel ("PortalScene1");
@@ -30,7 +31,8 @@ public class SelectScene : MonoBehaviour {
 				Application.LoadLevel ("5x5Puzzle");
 			}
 			if (gameObject.name == "Door2") {
-				Application.LoadLevel ("title");
+				LevelController.level = 3;
+				Application.LoadLevel ("game");
 			}
 			if (gameObject.name == "Door3") {
 				Application.LoadLevel ("PortalScene2");
@@ -47,7 +49,8 @@ public class SelectScene : MonoBehaviour {
 				Application.LoadLevel ("6x6Puzzle");
 			}
 			if (gameObject.name == "Door2") {
-				Application.LoadLevel ("title");
+				LevelController.level = 2;
+				Application.LoadLevel ("game");
 			}
 			if (gameObject.name == "Door3") {
 				Application.LoadLevel ("PortalScene3");
