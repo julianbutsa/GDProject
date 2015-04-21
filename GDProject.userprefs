@@ -1,17 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControllerPortal.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatMove9.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerControllerPortal.cs" Line="94" Column="24" />
-      <File FileName="Assets\Scripts\GameLobbyManager.cs" Line="62" Column="20" />
-      <File FileName="Assets\Scripts\GameInfo.cs" Line="29" Column="65" />
-      <File FileName="Assets\Scripts\GameInfo2.cs" Line="16" Column="3" />
-      <File FileName="Assets\PortalSceneTransition.cs" Line="1" Column="1" />
-      <File FileName="Assets\SceneTransition.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\SelectScene.cs" Line="10" Column="8" />
-      <File FileName="Assets\ScriptEnabler.cs" Line="1" Column="1" />
-      <File FileName="Assets\MoveOn.cs" Line="8" Column="43" />
-      <File FileName="Assets\Scripts\ScoreKeeper.cs" Line="23" Column="12" />
+      <File FileName="Assets\Scripts\MainButtons.cs" Line="24" Column="41" />
+      <File FileName="Assets\Scripts\InstructionButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatMove7.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControllerPortal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatMove8.cs" Line="26" Column="50" />
+      <File FileName="Assets\Scripts\PlatMove9.cs" Line="4" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
