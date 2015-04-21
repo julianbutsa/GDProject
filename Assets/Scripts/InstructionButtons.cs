@@ -31,7 +31,7 @@ public class InstructionButtons  {
 	
 	private void DisplayButtons(){
 		if(GUI.Button (new Rect (Screen.width/2-75, Screen.height/2+100, 150,50), "Play Game")){
-			Application.LoadLevel ("Scene1");
+			Application.LoadLevel ("MainMenuScene");
 		}
 		if(GUI.Button (new Rect (Screen.width/2-75, Screen.height/2+150, 150,50), "Back")){
 			MainMenu.currentMenu = MainMenu.MenuStates.MAINSCREEN;
