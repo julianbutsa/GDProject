@@ -70,7 +70,6 @@
      <Compile Include="Assets\MP_DoorGoal.cs" />
      <Compile Include="Assets\MP_DoorScript.cs" />
      <Compile Include="Assets\MP_ExitDoor.cs" />
-     <Compile Include="Assets\MP_LaserScript.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\ButtonController.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\CloserController.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\Enemy\EnemyMovement1.cs" />
