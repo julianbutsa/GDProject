@@ -25,7 +25,6 @@ public class KinectClient : MonoBehaviour {
 	// if this is false then lx, ly lz, rx, ry, rz will never change from zero, so you must use alternate input for debugging
 	// purposes
 	public static bool KINECT_CONNECTED = false; 
-	public static bool once = false;
 
 	// Use to check if the perosn is currently being tracked by the Kinect. These can change frame by frame,
 	// and can be used to give messages to the user if they move out of the sensor range.
@@ -106,11 +105,6 @@ public class KinectClient : MonoBehaviour {
 	
 	void Awake()
 	{
-		if (once == true) {
-						Destroy (this.gameObject);
-			return;
-				}
-		once = true;
 		DontDestroyOnLoad(transform.gameObject); // Don't destroy the kinect manager until we quit the game
 
 		try //open up the socket
