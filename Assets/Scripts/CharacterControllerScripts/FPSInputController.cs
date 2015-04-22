@@ -9,11 +9,13 @@ using System.Collections.Generic;
 public class FPSInputController : MonoBehaviour
 {
     private CharacterMotor motor;
+	private KinectController body;
 
     // Use this for initialization
     void Awake()
     {
         motor = GetComponent<CharacterMotor>();
+		body = GetComponent<KinectController> ();
     }
 
     // Update is called once per frame
@@ -21,6 +23,8 @@ public class FPSInputController : MonoBehaviour
     {
         // Get the input vector from kayboard or analog stick
         Vector3 directionVector = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+		if (body != null && body.isKinectWalking ())
+			directionVector.z = 1f;
 
         if (directionVector != Vector3.zero)
         {
@@ -42,6 +46,8 @@ public class FPSInputController : MonoBehaviour
 
         // Apply the direction to the CharacterMotor
         motor.inputMoveDirection = transform.rotation * directionVector;
-        motor.inputJump = Input.GetButton("Jump");
+		motor.inputJump = Input.GetButton ("Jump");
+		if (body != null && body.isKinectJumping ())
+						motor.inputJump = true;
     }
 }

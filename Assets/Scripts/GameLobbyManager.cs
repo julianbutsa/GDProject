@@ -27,12 +27,6 @@ public class GameLobbyManager : MonoBehaviour {
 		d5 = Instantiate (door5, new Vector3(20.0f, 1.5f, -14.75f), Quaternion.identity); 
 
 	}
-
-	void OnTriggerEnter(){
-		if(door1)
-			Application.LoadLevel ("4x4Puzzle");
-				
-		}
 	
 	// Update is called once per frame
 	void Update () {

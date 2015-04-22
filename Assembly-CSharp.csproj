@@ -104,6 +104,9 @@
      <Compile Include="Assets\MoveOn.cs" />
      <Compile Include="Assets\PauseManager.cs" />
      <Compile Include="Assets\PortalSceneTransition.cs" />
+     <Compile Include="Assets\Prefabs\KinectClient.cs" />
+     <Compile Include="Assets\Prefabs\KinectController.cs" />
+     <Compile Include="Assets\Prefabs\KinectController2.cs" />
      <Compile Include="Assets\SceneTransition.cs" />
      <Compile Include="Assets\ScriptEnabler.cs" />
      <Compile Include="Assets\Scripts\AppearP.cs" />
