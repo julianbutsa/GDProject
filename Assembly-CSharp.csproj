@@ -64,12 +64,13 @@
      <Compile Include="Assets\GameScripts\PlatMove6.cs" />
      <Compile Include="Assets\GoToMenu.cs" />
      <Compile Include="Assets\GoalReceiver.cs" />
-     <Compile Include="Assets\KinectClient.cs" />
      <Compile Include="Assets\LoadLevelOnPress.cs" />
      <Compile Include="Assets\MP3_EndScript.cs" />
      <Compile Include="Assets\MP3_PowerEnabler.cs" />
      <Compile Include="Assets\MP_DoorGoal.cs" />
      <Compile Include="Assets\MP_DoorScript.cs" />
+     <Compile Include="Assets\MP_ExitDoor.cs" />
+     <Compile Include="Assets\MP_LaserScript.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\ButtonController.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\CloserController.cs" />
      <Compile Include="Assets\MattAssets\MattScripts\Enemy\EnemyMovement1.cs" />
