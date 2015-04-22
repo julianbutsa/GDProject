@@ -20,19 +20,13 @@ public class GameLobbyManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		end = 0;
-		d1 = Instantiate (door1, new Vector3(0.0f, 1.5f, 14.75f), Quaternion.identity); 
+		d1 = Instantiate (door1, new Vector3(0.5f, 1.5f, 14.75f), Quaternion.identity); 
 		d2 = Instantiate (door2, new Vector3(12.5f, 1.5f, 14.75f), Quaternion.identity); 
-		d3 = Instantiate (door3, new Vector3(25.0f, 1.5f, 14.75f), Quaternion.identity); 
-		d4 = Instantiate (door4, new Vector3(10.0f, 1.5f, -14.75f), Quaternion.identity); 
-		d5 = Instantiate (door5, new Vector3(20.0f, 1.5f, -14.75f), Quaternion.identity); 
+		d3 = Instantiate (door3, new Vector3(24.5f, 1.5f, 14.75f), Quaternion.identity); 
+		d4 = Instantiate (door4, new Vector3(0.0f, 1.5f, -14.75f), Quaternion.identity); 
+		d5 = Instantiate (door5, new Vector3(25.0f, 1.5f, -14.75f), Quaternion.identity); 
 
 	}
-
-	void OnTriggerEnter(){
-		if(door1)
-			Application.LoadLevel ("4x4Puzzle");
-				
-		}
 	
 	// Update is called once per frame
 	void Update () {

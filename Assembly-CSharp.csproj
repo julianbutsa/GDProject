@@ -105,6 +105,9 @@
      <Compile Include="Assets\MoveOn.cs" />
      <Compile Include="Assets\PauseManager.cs" />
      <Compile Include="Assets\PortalSceneTransition.cs" />
+     <Compile Include="Assets\Prefabs\KinectClient.cs" />
+     <Compile Include="Assets\Prefabs\KinectController.cs" />
+     <Compile Include="Assets\Prefabs\KinectController2.cs" />
      <Compile Include="Assets\SceneTransition.cs" />
      <Compile Include="Assets\ScriptEnabler.cs" />
      <Compile Include="Assets\Scripts\AppearP.cs" />
@@ -119,6 +122,7 @@
      <Compile Include="Assets\Scripts\Hmove.cs" />
      <Compile Include="Assets\Scripts\InstructionButtons.cs" />
      <Compile Include="Assets\Scripts\Jump.cs" />
+     <Compile Include="Assets\Scripts\LevelDisplay.cs" />
      <Compile Include="Assets\Scripts\Lmove.cs" />
      <Compile Include="Assets\Scripts\MainButtons.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
@@ -132,6 +136,7 @@
      <Compile Include="Assets\Scripts\PlayerControllerPortal.cs" />
      <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
      <Compile Include="Assets\Scripts\SelectScene.cs" />
+     <Compile Include="Assets\Scripts\Spin.cs" />
      <Compile Include="Assets\Standard Assets 1\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Standard Assets 1\Scripts\General Scripts\ActivateTrigger.cs" />
      <Compile Include="Assets\Standard Assets 1\Water (Basic)\Sources\Scripts\WaterSimple.cs" />
