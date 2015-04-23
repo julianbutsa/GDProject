@@ -30,6 +30,9 @@ public class GameLobbyManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (ScoreKeeper.level == 4) {
+			Application.LoadLevel ("EndScene");
+				}
 		if (ScoreKeeper.room1 == ScoreKeeper.level && d1) {
 			Destroy (d2);
 		}
