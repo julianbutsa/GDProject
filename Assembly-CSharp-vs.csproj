@@ -55,6 +55,7 @@
      <Compile Include="Assets\GameScripts\CharPlat.cs" />
      <Compile Include="Assets\GameScripts\Fall.cs" />
      <Compile Include="Assets\GameScripts\Fall2.cs" />
+     <Compile Include="Assets\GameScripts\FinishPlat.cs" />
      <Compile Include="Assets\GameScripts\PlatAppear.cs" />
      <Compile Include="Assets\GameScripts\PlatMove1.cs" />
      <Compile Include="Assets\GameScripts\PlatMove2.cs" />
@@ -194,7 +195,7 @@
      <None Include="Assets\Level Data\level1.txt" />
      <None Include="Assets\Standard Assets\Terrain Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Ryan/Documents/GitHub/GDProject/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Daniel/Documents/GitHub/GDProject/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>

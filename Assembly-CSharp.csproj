@@ -55,6 +55,7 @@
      <Compile Include="Assets\GameScripts\CharPlat.cs" />
      <Compile Include="Assets\GameScripts\Fall.cs" />
      <Compile Include="Assets\GameScripts\Fall2.cs" />
+     <Compile Include="Assets\GameScripts\FinishPlat.cs" />
      <Compile Include="Assets\GameScripts\PlatAppear.cs" />
      <Compile Include="Assets\GameScripts\PlatMove1.cs" />
      <Compile Include="Assets\GameScripts\PlatMove2.cs" />
