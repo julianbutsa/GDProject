@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameScripts\FinishPlat.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveTile.cs">
     <Files>
-      <File FileName="Assets\GameScripts\PlatAppear.cs" Line="10" Column="3" />
-      <File FileName="Assets\GameScripts\FinishPlat.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\MoveTile.cs" Line="25" Column="80" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,86 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M  (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.229 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daniel\Documents\GitHub\GDProject\Run_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.377423 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 1.577339 ms (FindLiveObjects: 0.046653 ms CreateObjectMapping: 0.017728 ms MarkObjects: 0.174482 ms  DeleteObjects: 0.144624 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.669004 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 0.933993 ms (FindLiveObjects: 0.015862 ms CreateObjectMapping: 0.012129 ms MarkObjects: 0.118965 ms  DeleteObjects: 0.055983 ms)
+
+UnloadTime: 0.494988 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 1.089815 ms (FindLiveObjects: 0.021926 ms CreateObjectMapping: 0.016328 ms MarkObjects: 0.135760 ms  DeleteObjects: 0.061115 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.934460 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 1087.
+Total: 1.533951 ms (FindLiveObjects: 0.069046 ms CreateObjectMapping: 0.029857 ms MarkObjects: 0.246328 ms  DeleteObjects: 0.079310 ms)
+
+UnloadTime: 1.470037 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 1.407522 ms (FindLiveObjects: 0.029391 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.204340 ms  DeleteObjects: 0.459998 ms)
+
+UnloadTime: 0.629349 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 7.871301 ms (FindLiveObjects: 0.015395 ms CreateObjectMapping: 0.013062 ms MarkObjects: 0.117565 ms  DeleteObjects: 6.980694 ms)
+
+UnloadTime: 0.428741 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.829957 ms (FindLiveObjects: 0.015395 ms CreateObjectMapping: 0.014928 ms MarkObjects: 0.133894 ms  DeleteObjects: 0.004198 ms)
+
+UnloadTime: 0.427808 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 1.234439 ms (FindLiveObjects: 0.021460 ms CreateObjectMapping: 0.018194 ms MarkObjects: 0.151155 ms  DeleteObjects: 0.329836 ms)
+

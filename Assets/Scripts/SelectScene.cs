@@ -59,7 +59,7 @@ public class SelectScene : MonoBehaviour {
 				Application.LoadLevel ("Mirror_3");
 			}
 			if (gameObject.name == "Door5") {
-				Application.LoadLevel ("Easy1.1");
+				Application.LoadLevel ("hard1.1");
 			}
 		}
 	}

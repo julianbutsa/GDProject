@@ -7,7 +7,7 @@ public class Fall : MonoBehaviour {
 	{
 		if (t.gameObject.name == "FallArea")
 		{
-			Application.LoadLevel("Easy1.1");
+			Application.LoadLevel(Application.loadedLevel);
 		}
 	}
 }

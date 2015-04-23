@@ -19,14 +19,14 @@ public class MoveTile : MonoBehaviour {
 		
 	}
 	
-	void OnMouseUp(){
+	void OnMouseDown(){
 		//If theDistance==1 between tiles then swap tiles
-		if(Vector3.Distance(transform.localPosition,slot.transform.position)==1){
-			
-			xtemp = transform.localPosition.x;
+		Debug.Log (Vector3.Distance (transform.localPosition, slot.transform.localPosition));
+		if(Vector3.Distance(transform.localPosition,slot.transform.localPosition)==1){	
+		xtemp = transform.localPosition.x;
 			ytemp = transform.localPosition.y;
-			transform.localPosition = new Vector3(slot.transform.position.x, slot.transform.position.y, 0);
-			slot.transform.position = new Vector3(xtemp, ytemp, 0);
+			transform.localPosition = new Vector3(slot.transform.localPosition.x, slot.transform.localPosition.y, 0);
+			slot.transform.localPosition = new Vector3(xtemp, ytemp, 0);
 			
 		}
 		

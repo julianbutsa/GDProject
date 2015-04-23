@@ -112,6 +112,8 @@
      <Compile Include="Assets\SceneTransition.cs" />
      <Compile Include="Assets\ScriptEnabler.cs" />
      <Compile Include="Assets\Scripts\AppearP.cs" />
+     <Compile Include="Assets\Scripts\B1.cs" />
+     <Compile Include="Assets\Scripts\B2.cs" />
      <Compile Include="Assets\Scripts\CharacterControllerScripts\$CharacterMotor.cs" />
      <Compile Include="Assets\Scripts\CharacterControllerScripts\CharacterMotor.cs" />
      <Compile Include="Assets\Scripts\CharacterControllerScripts\FPSInputController.cs" />
