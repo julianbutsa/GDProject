@@ -1,11 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using AssemblyCSharp;
 
 public class NodeHandler: MonoBehaviour, NodeHand{
 	// Use this for initialization
 	public ArrayList receivers;
-
 
 	void Start () {
 		renderer.material.color = Color.black;
@@ -14,15 +13,23 @@ public class NodeHandler: MonoBehaviour, NodeHand{
 	
 	// Update is called once per frame
 	void Update () {
-		//Debug.Log (this.GetComponentInChildren<PowerReceiver> ().receivingPower);
+		//Debug.Log (this.GetComponentInChildren<PowerReceiver> ().receivingPower);				
+			//if(transform.rotation.y 
 		foreach (PowerReceiver p in receivers) {
 			if (p.receivingPower) {
 				this.GetComponentInChildren<PSourceScript> ().isActive = true;	
+				//if(!GetComponent<AudioSource>().isPlaying){
+				//	GetComponent<AudioSource>().Play();
+				//}
 				break;
 			} else {
+				//if(GetComponent<AudioSource>().isPlaying){
+				//	GetComponent<AudioSource>().Stop();
+				//}
 				this.GetComponentInChildren<PSourceScript> ().isActive = false;		
 			}	
 		}
+
 
 	
 	}
@@ -41,6 +48,7 @@ public class NodeHandler: MonoBehaviour, NodeHand{
 
 
 	public void rotateNode(){
+		//GetComponent<AudioSource> ().Play ();
 		transform.Rotate (new Vector3 (0, 90, 0));
 			
 	}
