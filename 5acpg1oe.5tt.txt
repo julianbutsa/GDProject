@@ -1,0 +1,195 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch TestBranch
+# Your branch is behind 'origin/TestBranch' by 3 commits, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	modified:   Assembly-CSharp-Editor-vs.csproj
+#	modified:   Assembly-CSharp-vs.csproj
+#	modified:   Assembly-UnityScript-vs.unityproj
+#	new file:   Assets/ArtskillZ Store/Free SciFi Textures/Materials/Wall01b.mat
+#	new file:   Assets/ArtskillZ Store/Free SciFi Textures/Materials/Wall01b.mat.meta
+#	new file:   Assets/Pika/Materials/20305fd6d614200921fed26d728846c4_square_fullsize.mat
+#	new file:   Assets/Pika/Materials/20305fd6d614200921fed26d728846c4_square_fullsize.mat.meta
+#	renamed:    Assets/SciFi_Door/SF_Door.fbm.meta -> Assets/S&K.meta
+#	new file:   Assets/S&K/1.png.meta
+#	new file:   Assets/S&K/10.png.meta
+#	new file:   Assets/S&K/11.png.meta
+#	new file:   Assets/S&K/12.png.meta
+#	new file:   Assets/S&K/13.png.meta
+#	new file:   Assets/S&K/14.png.meta
+#	new file:   Assets/S&K/15.png.meta
+#	new file:   Assets/S&K/16.png.meta
+#	new file:   Assets/S&K/17.png.meta
+#	new file:   Assets/S&K/18.png.meta
+#	new file:   Assets/S&K/19.png.meta
+#	new file:   Assets/S&K/2.png.meta
+#	new file:   Assets/S&K/20.png.meta
+#	new file:   Assets/S&K/21.png.meta
+#	new file:   Assets/S&K/22.png.meta
+#	new file:   Assets/S&K/23.png.meta
+#	new file:   Assets/S&K/24.png.meta
+#	new file:   Assets/S&K/25.png.meta
+#	new file:   Assets/S&K/26.png.meta
+#	new file:   Assets/S&K/27.png.meta
+#	new file:   Assets/S&K/28.png.meta
+#	new file:   Assets/S&K/29.png.meta
+#	new file:   Assets/S&K/3.png.meta
+#	new file:   Assets/S&K/30.png.meta
+#	new file:   Assets/S&K/31.png.meta
+#	new file:   Assets/S&K/32.png.meta
+#	new file:   Assets/S&K/33.png.meta
+#	new file:   Assets/S&K/34.png.meta
+#	new file:   Assets/S&K/35.png.meta
+#	new file:   Assets/S&K/36.png.meta
+#	new file:   Assets/S&K/4.png.meta
+#	new file:   Assets/S&K/5.png.meta
+#	new file:   Assets/S&K/6.png.meta
+#	new file:   Assets/S&K/7.png.meta
+#	new file:   Assets/S&K/8.png.meta
+#	new file:   Assets/S&K/9.png.meta
+#	new file:   Assets/S&K/Materials.meta
+#	new file:   Assets/S&K/Materials/images [www.imagesplitter.net].mat
+#	new file:   Assets/S&K/Materials/images [www.imagesplitter.net].mat.meta
+#	new file:   Assets/S&K/images [www.imagesplitter.net].png.meta
+#	modified:   Assets/Scene/4x4Puzzle.unity
+#	modified:   Assets/Scene/5x5Puzzle.unity
+#	modified:   Assets/Scene/6x6Puzzle.unity
+#	modified:   Assets/Scripts/EndScene.cs
+#	new file:   Assets/Tri/Materials.meta
+#	new file:   Assets/Tri/Materials/triforce.mat
+#	new file:   Assets/Tri/Materials/triforce.mat.meta
+#	modified:   GDProject-csharp.sln
+#	modified:   GDProject.sln
+#	modified:   GDProject.userprefs
+#	modified:   Library/CurrentLayout.dwlt
+#	modified:   Library/InspectorExpandedItems.asset
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Library/assetDatabase3
+#	modified:   Library/expandedItems
+#	modified:   Library/guidmapper
+#	new file:   Library/metadata/03/038c58a139da6ff4b80aabdf65eb2d57
+#	new file:   Library/metadata/03/03ad4e5d0ad0b8345bc45e3536d1df69
+#	new file:   Library/metadata/04/04ac5fcfcaca14a48b00bcfa40ecf2e1
+#	new file:   Library/metadata/05/05127942480cac349b164f5c7fa0fa2b
+#	new file:   Library/metadata/06/0663fde0d9445ba48a28a3c9002e41d2
+#	modified:   Library/metadata/0c/0c38abccd9d13914992e2438b2a7355e
+#	new file:   Library/metadata/0d/0d8a0a4df45d1de4bbe7b3442e444c7b
+#	new file:   Library/metadata/0e/0e6bfabfeb62be94eb63d309cb341a21
+#	new file:   Library/metadata/0f/0f36aea575b6ad140ab6c8f2f4c9ec38
+#	new file:   Library/metadata/13/13ac28189c5812a459de5e994e929081
+#	new file:   Library/metadata/1e/1e3dc9bdac31ccd4cbd619c875ec1bb6
+#	new file:   Library/metadata/1e/1e4808fc7550ea14ab2cbfbfd35040b3
+#	new file:   Library/metadata/21/2158ee52d2f26c146a7ca9f890af6229
+#	new file:   Library/metadata/22/220ae5f6afe161947acae459dc48315a
+#	new file:   Library/metadata/24/243dfa307f64ee340840131d3629ac82
+#	new file:   Library/metadata/27/27169c332805383498b587a13aac1931
+#	new file:   Library/metadata/27/2727707643d25e34c8dc9d66a3e64763
+#	new file:   Library/metadata/27/2787f3a9f5cb62348809b8dfb2d5da06
+#	new file:   Library/metadata/2b/2bc1cee9eb5952541abab47de3b14785
+#	new file:   Library/metadata/2c/2c46cdec28a725445b36d0d7ccf56e25
+#	modified:   Library/metadata/2f/2f94c8cf0bbc9da4ead3dc2e04931175
+#	new file:   Library/metadata/30/300323279948ce843b5c45af0ec35db3
+#	new file:   Library/metadata/32/325c61fe3e238d54fbf21a0fb73c3ab5
+#	renamed:    Library/metadata/4a/4a7bcd49aa263e142a35d56e6c8f2f0f -> Library/metadata/32/32dff901f4cba9643a8bb0c6e376bf00
+#	new file:   Library/metadata/33/337767c651920fc40b34c4966f787fcb
+#	new file:   Library/metadata/38/386bae3b874865e4abf9f7d27861ba61
+#	new file:   Library/metadata/3a/3a752c7974c2631478fcaa7fa08945a9
+#	new file:   Library/metadata/3a/3a8a272bb2389db46801a00e8280c90b
+#	new file:   Library/metadata/3c/3c520d8500b21884bb888b7e1cafa3b0
+#	new file:   Library/metadata/3d/3dbbfa53fe19bff40b961b3a6d8b556c
+#	new file:   Library/metadata/41/4197295bc20b40148b1121ac64a76276
+#	new file:   Library/metadata/43/43965021267f86b4a958e86b4430440c
+#	new file:   Library/metadata/46/46722f31f9c02f84f8cbf3425c3b58d6
+#	modified:   Library/metadata/47/47824802eb586544b92de9b233b111bf
+#	new file:   Library/metadata/4b/4be81f554373b9f468e7bfe38939cd2f
+#	new file:   Library/metadata/4c/4c8e0d3e8089e6e41ae62a5385207793
+#	new file:   Library/metadata/4d/4df5712d6be0f16488eee77a3555a1dc
+#	new file:   Library/metadata/4f/4f5cd0e4d053d334da465ac8fb9f95b7
+#	new file:   Library/metadata/4f/4fd739f759855c14c8b9eadab434112f
+#	new file:   Library/metadata/55/551119ae80608ac49a6414f3e473d48e
+#	new file:   Library/metadata/59/591e7cfd54171ae4c85a6728a7f0306c
+#	new file:   Library/metadata/5d/5d4287acafe6d8343a8499d9aed337f4
+#	new file:   Library/metadata/60/60d58b4642aeed540b021a4b97258d8c
+#	new file:   Library/metadata/61/61cacfe48823d804a9ca9c88ca88ca69
+#	new file:   Library/metadata/63/631af9e0b71a862449bbe2f2af6357ed
+#	new file:   Library/metadata/66/66222edaff6dfbe4fa2ac97d8bf89cde
+#	modified:   Library/metadata/67/67a40d9e92547514094e00e1a1b3af0f
+#	new file:   Library/metadata/6a/6a70d660a465d5e4f9774203f290b89a
+#	modified:   Library/metadata/6d/6d37b729da8156249b4d360562b8c47f
+#	modified:   Library/metadata/6e/6e15146690cbb934bb3ba271848385e3
+#	new file:   Library/metadata/6e/6e5058c8ddaa265438b74761c7e61fb1
+#	new file:   Library/metadata/6f/6f6536f1ea4917b4d8781505b1b8667e
+#	new file:   Library/metadata/70/70b04b1c698161a4787d6d4f31d8727d
+#	new file:   Library/metadata/71/710440e84111a3449b8a446a2c97b584
+#	new file:   Library/metadata/72/72f9d0b59ec30c340bfbc6d7f20deeda
+#	new file:   Library/metadata/76/762e97e1a1a27614cb528e2c1b8f006a
+#	new file:   Library/metadata/76/76380112ba3966442ba218f2019a3ffc
+#	new file:   Library/metadata/77/77cea103af21d7242bd2a8323e05cf0a
+#	new file:   Library/metadata/78/781d51b83d8366040aae611bd3aa99b0
+#	new file:   Library/metadata/7c/7c2e691c4b934eb4d94351e104bd0a99
+#	modified:   Library/metadata/7d/7d9a31cb637617d43b703bed6a112f05
+#	new file:   Library/metadata/7f/7ff8906f16ffff94fbc472256ea4d803
+#	new file:   Library/metadata/81/812f5a86caf05624aaeccee0ec22f256
+#	modified:   Library/metadata/82/82f786c4e25194a459e03b96f08f8663
+#	new file:   Library/metadata/85/855ce713d49cba446bad436acc7398ee
+#	new file:   Library/metadata/86/865749a7d61f3fa41ac8d67623b7bee9
+#	new file:   Library/metadata/88/880970ca48217804eb385d18880e915e
+#	new file:   Library/metadata/89/8922f94bbed7b3841a80307e963c93d1
+#	new file:   Library/metadata/91/91592c138ab0b214f8d3deaec60da04e
+#	new file:   Library/metadata/91/91f6885085ae3d8409b05103f9885a92
+#	new file:   Library/metadata/95/953dbb0625b37b848879379ad666c33d
+#	new file:   Library/metadata/96/96d723a8c9fad964e8bc1670e1facdcd
+#	new file:   Library/metadata/97/97e9f24362da25b40b42849fa0b33a69
+#	new file:   Library/metadata/9d/9d48ac4ef8523d148b5eaaf80aa6c554
+#	new file:   Library/metadata/a1/a1d891820c5192f4890d8a8b0b38b0f9
+#	modified:   Library/metadata/a2/a21abb3fb0ccba14a8ac6e14e056ce09
+#	new file:   Library/metadata/a2/a2529fa07e178e5458abc91146f3a434
+#	new file:   Library/metadata/a8/a8155eaa0e62a474980267dbba56dba0
+#	new file:   Library/metadata/ab/abc5e25c61caec3438c6c54765f73039
+#	new file:   Library/metadata/ac/aca957256922df84088ad90eb2bee35b
+#	new file:   Library/metadata/ae/ae6882eb3c2992247b149f88de62ced7
+#	new file:   Library/metadata/ae/aecea4a577e71d046b4090ddabc2ebe5
+#	modified:   Library/metadata/b2/b26e264c3a461b649acdc23a898e5da9
+#	new file:   Library/metadata/b6/b6448b44f3b61d540b5764eb0f064206
+#	new file:   Library/metadata/b6/b6c1202ff4625ce4b9cddd509cf7c422
+#	new file:   Library/metadata/ba/bab0a2326a0dbf84fbc68408cfd93c00
+#	new file:   Library/metadata/bb/bb31f740833229741b918149aeeb64e0
+#	new file:   Library/metadata/be/bed3f6ce85a302e4ea20436f385827d4
+#	new file:   Library/metadata/c1/c1b93fbd8ad5b744299400825730b418
+#	new file:   Library/metadata/c8/c8160cae452146c4e9b7e85624473a8a
+#	new file:   Library/metadata/c8/c8330456affb8c54b9ecc2b99eab0b0f
+#	new file:   Library/metadata/ca/ca0bd61c22f7d75419f594a3d1b1df6a
+#	new file:   Library/metadata/ca/ca2db680ba02c374bb8103ca67966691
+#	new file:   Library/metadata/cd/cd3b8de1830cfd44b8972ed704c73099
+#	new file:   Library/metadata/cd/cd594b7e413bbda4697ca10eac2c8a7a
+#	new file:   Library/metadata/d1/d13c537930b4ab843b24439eb9962a7e
+#	new file:   Library/metadata/d3/d355a8dc83534954b9e23f337ae21b6a
+#	new file:   Library/metadata/d6/d6d0fdb1ea0e72c4e836e00a9cc5efad
+#	new file:   Library/metadata/d7/d746d7aec343fac4bbe062a7ada54dfb
+#	new file:   Library/metadata/da/da95aefd6b6b35744aa304e023996fe8
+#	new file:   Library/metadata/db/db28ec20ea25a8840a10a0663c067520
+#	new file:   Library/metadata/dc/dcff6d7ed060a1e4d9ea68e80e62a155
+#	new file:   Library/metadata/e3/e3c10202861b3e54985a61b94759bfbd
+#	new file:   Library/metadata/e4/e40f0145cbb144742a1d5b439116db1d
+#	new file:   Library/metadata/e4/e4d0c06cedc58244ca1893ce996f51a1
+#	new file:   Library/metadata/e6/e6e6ab04d1ddb4949a84d0f4f933ee97
+#	new file:   Library/metadata/e9/e91278634edb795459da1db47c3a7504
+#	new file:   Library/metadata/eb/eb0d366384e2b5f42b92e4b0ba380d4d
+#	new file:   Library/metadata/ec/ec5e479cc3750014eb66f0c542e0c7b8
+#	new file:   Library/metadata/ee/ee95ff3a4aeb88d4aa2dcd4d94b17536
+#	modified:   Library/metadata/ef/efec8bd0cf06af54bb2a0b48f4d00b39
+#	modified:   Library/metadata/f4/f468044ac5b3e384b9b66ce66062377b
+#	new file:   Library/metadata/f6/f6410b68dd43b4440ab9962c6b5342c4
+#	new file:   Library/metadata/f9/f9c216fbf394343449d9e6507c0af5da
+#	new file:   Library/metadata/fa/fa5c12619f4db5145b1aa7c7486a5441
+#
+# Untracked files:
+#	Temp/
+#
+
